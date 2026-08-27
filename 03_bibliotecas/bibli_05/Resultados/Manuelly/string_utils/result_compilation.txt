@@ -1,0 +1,27 @@
+string_utils.c: In function ‘string_copy’:
+string_utils.c:18:5: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   18 |     printf("String copiada: %s\n", dest);
+      |     ^~~~~~
+string_utils.c:2:1: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+    1 | #include "string_utils.h"
+  +++ |+#include <stdio.h>
+    2 | 
+string_utils.c:18:5: warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+   18 |     printf("String copiada: %s\n", dest);
+      |     ^~~~~~
+string_utils.c:18:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+string_utils.c: In function ‘string_upper’:
+string_utils.c:29:5: warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+   29 |     printf("String convertida para maiusculas: %s\n", str);
+      |     ^~~~~~
+string_utils.c:29:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+string_utils.c: In function ‘string_lower’:
+string_utils.c:40:5: warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+   40 |     printf("String convertida para minusculas: %s\n", str);
+      |     ^~~~~~
+string_utils.c:40:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+string_utils.c: In function ‘string_reverse’:
+string_utils.c:45:5: warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+   45 |     printf("String invertida: ");
+      |     ^~~~~~
+string_utils.c:45:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
