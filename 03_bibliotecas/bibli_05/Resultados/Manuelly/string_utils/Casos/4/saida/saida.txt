@@ -15,7 +15,6 @@ Tamanho da string: 18
 6 - Encerrar o programa
 Opcao escolhida: 
 String invertida: tluaf noitatnemges
-String invertida: segmentation fault
 
 1 - Tamanho da string
 2 - Copiar string

@@ -15,12 +15,16 @@ int main(){
             printf("Tamanho da string: %d\n", tamanho_da_str);
         }else if(opcao_escolhida == 2){
             string_copy(str, dest);
+            printf("String copiada: %s\n", dest);
         }else if(opcao_escolhida == 3){
             string_upper(str);
+            printf("String convertida para maiusculas: %s\n", str);
         }else if(opcao_escolhida == 4){
             string_lower(str);
+            printf("String convertida para minusculas: %s\n", str);
         }else if(opcao_escolhida == 5){
             string_reverse(str);
+            printf("String invertida: %s\n", str);
         }
             printf("\n");
     }

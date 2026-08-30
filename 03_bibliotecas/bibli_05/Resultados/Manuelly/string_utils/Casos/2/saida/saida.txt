@@ -15,7 +15,6 @@ Tamanho da string: 14
 6 - Encerrar o programa
 Opcao escolhida: 
 String copiada: programacao ii
-String copiada: programacao ii
 
 1 - Tamanho da string
 2 - Copiar string
@@ -25,7 +24,6 @@ String copiada: programacao ii
 6 - Encerrar o programa
 Opcao escolhida: 
 String convertida para maiusculas: PROGRAMACAO II
-String convertida para maiusculas: PROGRAMACAO II
 
 1 - Tamanho da string
 2 - Copiar string
@@ -34,7 +32,6 @@ String convertida para maiusculas: PROGRAMACAO II
 5 - Imprimir string ao contrario
 6 - Encerrar o programa
 Opcao escolhida: 
-String convertida para minusculas: programacao ii
 String convertida para minusculas: programacao ii
 
 1 - Tamanho da string
@@ -45,7 +42,6 @@ String convertida para minusculas: programacao ii
 6 - Encerrar o programa
 Opcao escolhida: 
 String invertida: ii oacamargorp
-String invertida: programacao ii
 
 1 - Tamanho da string
 2 - Copiar string

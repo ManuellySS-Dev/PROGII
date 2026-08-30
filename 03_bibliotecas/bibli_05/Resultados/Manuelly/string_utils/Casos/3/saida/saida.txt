@@ -6,7 +6,6 @@
 6 - Encerrar o programa
 Opcao escolhida: 
 String convertida para minusculas: netbeans
-String convertida para minusculas: netbeans
 
 1 - Tamanho da string
 2 - Copiar string
@@ -16,7 +15,6 @@ String convertida para minusculas: netbeans
 6 - Encerrar o programa
 Opcao escolhida: 
 String invertida: snaebten
-String invertida: netbeans
 
 1 - Tamanho da string
 2 - Copiar string

@@ -1,0 +1,15 @@
+==109938== Memcheck, a memory error detector
+==109938== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==109938== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==109938== Command: Resultados/Manuelly/matrix_utils/prog Resultados/Manuelly/matrix_utils/Casos/1
+==109938== Parent PID: 109937
+==109938== 
+==109938== 
+==109938== HEAP SUMMARY:
+==109938==     in use at exit: 0 bytes in 0 blocks
+==109938==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==109938== 
+==109938== All heap blocks were freed -- no leaks are possible
+==109938== 
+==109938== For lists of detected and suppressed errors, rerun with: -s
+==109938== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

@@ -15,7 +15,6 @@ Tamanho da string: 12
 6 - Encerrar o programa
 Opcao escolhida: 
 String copiada: Hello world!
-String copiada: Hello world!
 
 1 - Tamanho da string
 2 - Copiar string
@@ -25,7 +24,6 @@ String copiada: Hello world!
 6 - Encerrar o programa
 Opcao escolhida: 
 String convertida para maiusculas: HELLO WORLD!
-String convertida para maiusculas: HELLO WORLD!
 
 1 - Tamanho da string
 2 - Copiar string
@@ -34,7 +32,6 @@ String convertida para maiusculas: HELLO WORLD!
 5 - Imprimir string ao contrario
 6 - Encerrar o programa
 Opcao escolhida: 
-String convertida para minusculas: hello world!
 String convertida para minusculas: hello world!
 
 1 - Tamanho da string
@@ -45,7 +42,6 @@ String convertida para minusculas: hello world!
 6 - Encerrar o programa
 Opcao escolhida: 
 String invertida: !dlrow olleh
-String invertida: hello world!
 
 1 - Tamanho da string
 2 - Copiar string

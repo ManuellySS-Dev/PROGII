@@ -15,7 +15,6 @@ void string_copy(char *src, char *dest){
         tamanho++;
     }
     dest[tamanho] = '\0';
-    printf("String copiada: %s\n", dest);
 }
 
 void string_upper(char *str){
@@ -26,7 +25,6 @@ void string_upper(char *str){
         }
         tamanho++;
     }
-    printf("String convertida para maiusculas: %s\n", str);
 }
 
 void string_lower(char *str){
@@ -37,15 +35,17 @@ void string_lower(char *str){
         }
         tamanho++;
     }  
-    printf("String convertida para minusculas: %s\n", str);
 }
 
 void string_reverse(char *str){
-    int tamanho=0, i=0;
-    printf("String invertida: ");
+    int tamanho=0, i=0, j=0;
+    char copy_string[100];
+
     tamanho = string_length(str);
     for(i=(tamanho-1); i>=0; i--){
-        printf("%c", str[i]);
+        copy_string[j] = str[i];
+        j++;
     }
-        printf("\n");
+    copy_string[j] = '\0'; //adicionando fim pra na hora de copiar a condicao do while ter fim 
+    string_copy(copy_string, str);
 }

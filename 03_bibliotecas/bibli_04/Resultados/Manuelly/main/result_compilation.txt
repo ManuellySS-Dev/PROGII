@@ -1,0 +1,10 @@
+main.c: In function ‘main’:
+main.c:5:46: warning: unused variable ‘ano2’ [-Wunused-variable]
+    5 |     int mes=0, mes2=0, dia=0, dia2=0, ano=0, ano2=0;
+      |                                              ^~~~
+main.c:5:31: warning: unused variable ‘dia2’ [-Wunused-variable]
+    5 |     int mes=0, mes2=0, dia=0, dia2=0, ano=0, ano2=0;
+      |                               ^~~~
+main.c:5:16: warning: unused variable ‘mes2’ [-Wunused-variable]
+    5 |     int mes=0, mes2=0, dia=0, dia2=0, ano=0, ano2=0;
+      |                ^~~~
