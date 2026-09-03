@@ -1,15 +1,15 @@
-==606627== Memcheck, a memory error detector
-==606627== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
-==606627== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
-==606627== Command: Resultados/Manuelly/reserva/prog Resultados/Manuelly/reserva/Casos/5
-==606627== Parent PID: 606626
-==606627== 
-==606627== 
-==606627== HEAP SUMMARY:
-==606627==     in use at exit: 0 bytes in 0 blocks
-==606627==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
-==606627== 
-==606627== All heap blocks were freed -- no leaks are possible
-==606627== 
-==606627== For lists of detected and suppressed errors, rerun with: -s
-==606627== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==628433== Memcheck, a memory error detector
+==628433== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==628433== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==628433== Command: Resultados/Manuelly/reserva/prog Resultados/Manuelly/reserva/Casos/5
+==628433== Parent PID: 628432
+==628433== 
+==628433== 
+==628433== HEAP SUMMARY:
+==628433==     in use at exit: 0 bytes in 0 blocks
+==628433==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==628433== 
+==628433== All heap blocks were freed -- no leaks are possible
+==628433== 
+==628433== For lists of detected and suppressed errors, rerun with: -s
+==628433== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

@@ -10,9 +10,9 @@ Teste completo
   - Valgrinds corretos: 7 de 7
 Nota de Manuelly para o teste completo: 0
 Teste data
-  - Resultados corretos: 0 de 7
-  - Valgrinds corretos: 0 de 7
-Nota de Manuelly para o teste data: 0
+  - Resultados corretos: 7 de 7
+  - Valgrinds corretos: 7 de 7
+Nota de Manuelly para o teste data: 1.00
 Teste area
   - Resultados corretos: 7 de 7
   - Valgrinds corretos: 7 de 7
@@ -25,5 +25,5 @@ Teste reserva
   - Resultados corretos: 7 de 7
   - Valgrinds corretos: 7 de 7
 Nota de Manuelly para o teste reserva: 3.00
-Nota de Manuelly: 0+(3.00)+(1.00)+(1.00)+(0)+(0)+(0)
-Nota de Manuelly: 5.00
+Nota de Manuelly: 0+(3.00)+(1.00)+(1.00)+(0)+(0)+(1.00)
+Nota de Manuelly: 6.00

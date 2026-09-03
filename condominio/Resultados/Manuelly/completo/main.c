@@ -28,8 +28,8 @@ int main(){
     scanf("%d", &qtd_solicitacoes);
     for(i=0; i<qtd_solicitacoes; i++){
         //verifica qual das areas pertence esse identificador
-    scanf(" %[^\n]", identificador_area);
-    scanf(" %[^\n]", cpf);
+        scanf(" %[^\n]", identificador_area);
+        scanf(" %[^\n]", cpf);
         datareserva = lerData();
         scanf("%d", &qtd_convidados);
         for(indice_area=0; indice_area<qtd_areas; indice_area++){

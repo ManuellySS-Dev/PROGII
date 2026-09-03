@@ -191,40 +191,40 @@ EXECUTANDO O VALGRIND EM CADA CASO:
  -----
  - Pasta data / Caso 1:
  - Arquivo de output gerado: Resultados/Manuelly/data/Casos/1/result_valgrind.txt.
- - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
- - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
  - Pasta data / Caso 2:
  - Arquivo de output gerado: Resultados/Manuelly/data/Casos/2/result_valgrind.txt.
- - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 667 | Desconto do valgrind 0%
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
- - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
  - Pasta data / Caso 3:
  - Arquivo de output gerado: Resultados/Manuelly/data/Casos/3/result_valgrind.txt.
- - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
- - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
  - Pasta data / Caso 4:
  - Arquivo de output gerado: Resultados/Manuelly/data/Casos/4/result_valgrind.txt.
- - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
- - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
  - Pasta data / Caso 5:
  - Arquivo de output gerado: Resultados/Manuelly/data/Casos/5/result_valgrind.txt.
- - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
- - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
  - Pasta data / Caso 6:
  - Arquivo de output gerado: Resultados/Manuelly/data/Casos/6/result_valgrind.txt.
- - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
- - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
  - Pasta data / Caso 7:
  - Arquivo de output gerado: Resultados/Manuelly/data/Casos/7/result_valgrind.txt.
- - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
- - Resultado para o saida.txt: Incorreto! Peso: 0.0
- - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
- - Nota para a pasta data (máximo 1.00) - 0 de 70 - 0% de 1.00: 0.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta data (máximo 1.00) - 70.00 de 70 - 100.00% de 1.00: 1.00.
  -----
  - Pasta area / Caso 1:
  - Arquivo de output gerado: Resultados/Manuelly/area/Casos/1/result_valgrind.txt.
@@ -356,9 +356,9 @@ Aluno: Manuelly
  - Valgrinds corretos: 7 de 7
  - Nota de Manuelly para o teste completo: 0
  - Teste data
- - Resultados corretos: 0 de 7
- - Valgrinds corretos: 0 de 7
- - Nota de Manuelly para o teste data: 0
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de Manuelly para o teste data: 1.00
  - Teste area
  - Resultados corretos: 7 de 7
  - Valgrinds corretos: 7 de 7
@@ -371,8 +371,8 @@ Aluno: Manuelly
  - Resultados corretos: 7 de 7
  - Valgrinds corretos: 7 de 7
  - Nota de Manuelly para o teste reserva: 3.00
- - Nota de Manuelly: 0+(3.00)+(1.00)+(1.00)+(0)+(0)+(0)
- - Nota de Manuelly: 5.00
+ - Nota de Manuelly: 0+(3.00)+(1.00)+(1.00)+(0)+(0)+(1.00)
+ - Nota de Manuelly: 6.00
 
 ----------------------------------------------------------------------------
 

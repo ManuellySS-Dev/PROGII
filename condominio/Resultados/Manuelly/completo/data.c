@@ -7,12 +7,12 @@
 
 Data lerData(){
     Data data;
-    scanf("%d/%d/%d", &data.dia, &data.mes, &data.ano);
+    scanf("%d/%d/%d\n", &data.dia, &data.mes, &data.ano);
     return data;
 }
 
 void imprimeData(Data d){
-    printf("%02d/%02d/%04d\n", d.dia, d.mes, d.ano);
+    printf("%d/%d/%d\n", d.dia, d.mes, d.ano);
 }
 
 int comparaData(Data d1, Data d2){

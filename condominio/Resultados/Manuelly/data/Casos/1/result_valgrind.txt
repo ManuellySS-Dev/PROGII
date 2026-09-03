@@ -1,19 +1,15 @@
-==603567== Memcheck, a memory error detector
-==603567== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
-==603567== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
-==603567== Command: Resultados/Manuelly/data/prog Resultados/Manuelly/data/Casos/1
-==603567== Parent PID: 603566
-==603567== 
-==603567== Conditional jump or move depends on uninitialised value(s)
-==603567==    at 0x109F8D: main (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
-==603567== 
-==603567== 
-==603567== HEAP SUMMARY:
-==603567==     in use at exit: 0 bytes in 0 blocks
-==603567==   total heap usage: 1 allocs, 1 frees, 4,096 bytes allocated
-==603567== 
-==603567== All heap blocks were freed -- no leaks are possible
-==603567== 
-==603567== Use --track-origins=yes to see where uninitialised values come from
-==603567== For lists of detected and suppressed errors, rerun with: -s
-==603567== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
+==625615== Memcheck, a memory error detector
+==625615== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==625615== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==625615== Command: Resultados/Manuelly/data/prog Resultados/Manuelly/data/Casos/1
+==625615== Parent PID: 625614
+==625615== 
+==625615== 
+==625615== HEAP SUMMARY:
+==625615==     in use at exit: 0 bytes in 0 blocks
+==625615==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==625615== 
+==625615== All heap blocks were freed -- no leaks are possible
+==625615== 
+==625615== For lists of detected and suppressed errors, rerun with: -s
+==625615== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
