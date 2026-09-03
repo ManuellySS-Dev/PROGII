@@ -1,0 +1,44 @@
+==603693== Memcheck, a memory error detector
+==603693== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==603693== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==603693== Command: Resultados/Manuelly/data/prog Resultados/Manuelly/data/Casos/2
+==603693== Parent PID: 603692
+==603693== 
+==603693== Conditional jump or move depends on uninitialised value(s)
+==603693==    at 0x485036C: strcmp (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==603693==    by 0x10A257: verificaCPFMorador (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109605: getMoradorGrupo (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109A61: main (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693== 
+==603693== Conditional jump or move depends on uninitialised value(s)
+==603693==    at 0x4850394: strcmp (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==603693==    by 0x10A257: verificaCPFMorador (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109605: getMoradorGrupo (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109A61: main (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693== 
+==603693== Conditional jump or move depends on uninitialised value(s)
+==603693==    at 0x485038B: strcmp (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==603693==    by 0x10A257: verificaCPFMorador (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109605: getMoradorGrupo (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109A61: main (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693== 
+==603693== Conditional jump or move depends on uninitialised value(s)
+==603693==    at 0x4850387: strcmp (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==603693==    by 0x10A257: verificaCPFMorador (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109605: getMoradorGrupo (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109A61: main (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693== 
+==603693== Conditional jump or move depends on uninitialised value(s)
+==603693==    at 0x10960F: getMoradorGrupo (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693==    by 0x109A61: main (in /home/mssilva/Downloads/PROGII/condominio/Resultados/Manuelly/data/prog)
+==603693== 
+==603693== 
+==603693== HEAP SUMMARY:
+==603693==     in use at exit: 0 bytes in 0 blocks
+==603693==   total heap usage: 1 allocs, 1 frees, 4,096 bytes allocated
+==603693== 
+==603693== All heap blocks were freed -- no leaks are possible
+==603693== 
+==603693== Use --track-origins=yes to see where uninitialised values come from
+==603693== For lists of detected and suppressed errors, rerun with: -s
+==603693== ERROR SUMMARY: 667 errors from 5 contexts (suppressed: 0 from 0)

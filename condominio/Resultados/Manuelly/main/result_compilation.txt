@@ -1,0 +1,4 @@
+main.c: In function ‘main’:
+main.c:9:44: warning: unused variable ‘qtd_reservas’ [-Wunused-variable]
+    9 |     int qtd_areas=0, i=0, qtd_moradores=0, qtd_reservas=0, indice_morador=0, indice_area=0, qtd_convidados=0, n_reservas=0, qtd_solicitacoes=0;
+      |                                            ^~~~~~~~~~~~
