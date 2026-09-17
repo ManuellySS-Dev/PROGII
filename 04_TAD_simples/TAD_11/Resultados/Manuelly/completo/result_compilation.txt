@@ -1,0 +1,4 @@
+main.c: In function ‘main’:
+main.c:7:50: warning: unused variable ‘qtd_vendedores’ [-Wunused-variable]
+    7 |     int id=0, salario=0, aluguel =0,qtd_lojas=0, qtd_vendedores=0,i=0, operacao=1, lojas_abertas=0;
+      |                                                  ^~~~~~~~~~~~~~

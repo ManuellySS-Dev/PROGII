@@ -1,0 +1,8 @@
+empresa.c: In function ‘criaEmpresa’:
+empresa.c:7:9: warning: unused variable ‘i’ [-Wunused-variable]
+    7 |     int i = 0;
+      |         ^
+empresa.c: In function ‘leEmpresa’:
+empresa.c:16:17: warning: unused variable ‘qtd’ [-Wunused-variable]
+   16 |     int id = 0, qtd = 0;
+      |                 ^~~

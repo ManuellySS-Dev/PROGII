@@ -1,0 +1,7 @@
+lesao.c: In function ‘imprimeIdLesao’:
+lesao.c:44:14: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[11]’ [-Wformat=]
+   44 |     printf("%s\n", &l.id);
+      |             ~^     ~~~~~
+      |              |     |
+      |              |     char (*)[11]
+      |              char *

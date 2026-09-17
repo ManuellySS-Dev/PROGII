@@ -1,0 +1,4 @@
+jogo.c: In function ‘ComecaJogo’:
+jogo.c:18:16: warning: unused variable ‘tabuleiro_anterior’ [-Wunused-variable]
+   18 |     tTabuleiro tabuleiro_anterior;
+      |                ^~~~~~~~~~~~~~~~~~

@@ -1,0 +1,4 @@
+paciente.c: In function ‘imprimePaciente’:
+paciente.c:60:9: warning: unused variable ‘tem_lesao_pesada’ [-Wunused-variable]
+   60 |     int tem_lesao_pesada=0, i=0;
+      |         ^~~~~~~~~~~~~~~~

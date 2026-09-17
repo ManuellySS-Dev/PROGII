@@ -1,0 +1,9 @@
+A empresa 1 ja possui um funcionario com o id 25
+0- Funcionario -16782352: RS 0.00
+- Funcionario 67112336: RS 0.00
+- Funcionario 67112336: RS 0.00
+A empresa 1 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 1 ja possui um funcionario com o id 67112336
+Empresa 1087961:
+

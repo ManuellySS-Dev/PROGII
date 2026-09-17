@@ -1,6 +1,9 @@
 #include "jogo.h"
 #include "tabuleiro.h"
 #include "jogador.h"
+#include "jogada.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 tJogo CriaJogo(){
     tJogo jogo;
@@ -12,40 +15,52 @@ tJogo CriaJogo(){
 
 void ComecaJogo(tJogo jogo){
     int i=1;
+    tTabuleiro tabuleiro_anterior;
     while(1){
         if(AcabouJogo(jogo) == 1){
             break;
         }
         if(i%2 != 0){
-            printf("Jogador 1\n");
-           JogaJogador(jogo.jogador1, jogo.tabuleiro); 
+            jogo.tabuleiro = JogaJogador(jogo.jogador1, jogo.tabuleiro); 
         }else{
-            printf("Jogador 2\n");
-           JogaJogador(jogo.jogador2, jogo.tabuleiro); 
+            jogo.tabuleiro = JogaJogador(jogo.jogador2, jogo.tabuleiro); 
         }
+        ImprimeTabuleiro(jogo.tabuleiro);
         i++;
     }
 }
 
 int AcabouJogo(tJogo jogo){
-    if(TemPosicaoLivreTabuleiro(jogo.tabuleiro)){
-        if(VenceuJogador(jogo.jogador1, jogo.tabuleiro) == 0 && VenceuJogador(jogo.jogador2, jogo.tabuleiro) == 0){
-            return 0;
-        }else{
-            return 1;
-        }
-    }else{
+    if (VenceuJogador(jogo.jogador1, jogo.tabuleiro)){
+        printf("JOGADOR 1 Venceu!\n");
         return 1;
     }
+    
+    if(VenceuJogador(jogo.jogador2, jogo.tabuleiro)) {
+        printf("JOGADOR 2 Venceu!\n");
+        return 1;
+    }
+    
+    if (!TemPosicaoLivreTabuleiro(jogo.tabuleiro)) {
+        printf("Sem vencedor!\n");
+        return 1;
+    }
+
+    return 0;
 }
 
 int ContinuaJogo(){
-    char decisao = '\0';
-    scanf("%c\n", &decisao);
-    if(decisao == 's'){
-        return 1;
-    }else if(decisao == 'n'){
-        return 0;
+char decisao = '\0';
+    printf("Jogar novamente? (s,n)\n");
+    
+    while (scanf(" %c", &decisao) == 1) {
+        if (decisao == 's' || decisao == 'S') {
+            return 1;
+        }
+        if (decisao == 'n' || decisao == 'N') {
+            return 0;
+        }
     }
+    return 0;
 }
 

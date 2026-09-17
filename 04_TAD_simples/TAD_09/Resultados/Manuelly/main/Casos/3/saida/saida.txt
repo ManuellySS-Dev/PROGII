@@ -1,0 +1,28 @@
+A empresa 5 ja possui um funcionario com o id 3
+A empresa 5 ja possui um funcionario com o id 7
+A empresa 5 ja possui um funcionario com o id 1
+A empresa 5 ja possui um funcionario com o id 3
+A empresa 5 ja possui um funcionario com o id 2
+A empresa 5 ja possui um funcionario com o id 4
+0- Funcionario -16782352: RS 0.00
+- Funcionario 67112336: RS 0.00
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+- Funcionario 67112336: RS 0.00
+A empresa 5 ja possui um funcionario com o id 67112336
+Empresa 1087961:
+

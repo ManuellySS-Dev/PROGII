@@ -1,0 +1,12 @@
+locadora.c: In function ‘verificarFilmeCadastrado’:
+locadora.c:13:14: warning: unused variable ‘j’ [-Wunused-variable]
+   13 |     int i=0, j=0;
+      |              ^
+locadora.c: In function ‘devolverFilmesLocadora’:
+locadora.c:83:19: warning: unused variable ‘f’ [-Wunused-variable]
+   83 | int i = 0, j = 0, f=0;
+      |                   ^
+locadora.c: In function ‘consultarEstoqueLocadora’:
+locadora.c:134:14: warning: unused variable ‘j’ [-Wunused-variable]
+  134 |     int i=0, j=0;
+      |              ^

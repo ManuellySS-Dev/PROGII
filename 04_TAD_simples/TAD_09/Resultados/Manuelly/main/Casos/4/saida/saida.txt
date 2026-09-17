@@ -1,0 +1,31 @@
+2- Funcionario 1: RS 1.00
+A empresa 1 ja possui um funcionario com o id 1
+1- Funcionario 78: RS 12000.00
+- Funcionario 5: RS 3.00
+- Funcionario 1: RS 1500.00
+- Funcionario 2: RS 3100.00
+A empresa 3500 ja possui um funcionario com o id 2
+- Funcionario 3: RS 5000.00
+- Funcionario -16783264: RS 0.00
+- Funcionario -16783264: RS 0.00
+A empresa 3500 ja possui um funcionario com o id -16783264
+- Funcionario -16783264: RS 0.00
+A empresa 3500 ja possui um funcionario com o id -16783264
+111Empresa 3500:
+- Funcionario 2: RS 2.00
+- Funcionario 7800: RS 1.00
+- Funcionario 3000: RS 4.00
+- Funcionario 78: RS 12000.00
+- Funcionario 5: RS 3.00
+- Funcionario 1: RS 1500.00
+- Funcionario 3: RS 5000.00
+- Funcionario -16783264: RS 0.00
+
+Empresa 48:
+
+Empresa 48:
+
+Empresa 48:
+
+Empresa 1087961:
+

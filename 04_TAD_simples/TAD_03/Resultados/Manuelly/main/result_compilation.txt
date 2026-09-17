@@ -1,0 +1,4 @@
+main.c: In function ‘main’:
+main.c:8:25: warning: unused variable ‘carac’ [-Wunused-variable]
+    8 |     char operacao[100], carac='\0';
+      |                         ^~~~~
