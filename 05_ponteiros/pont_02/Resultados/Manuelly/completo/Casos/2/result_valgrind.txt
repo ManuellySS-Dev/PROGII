@@ -1,0 +1,6 @@
+==115675== Memcheck, a memory error detector
+==115675== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==115675== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==115675== Command: Resultados/Manuelly/completo/prog Resultados/Manuelly/completo/Casos/2
+==115675== Parent PID: 115674
+==115675== 
