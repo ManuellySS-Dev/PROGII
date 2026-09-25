@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "vetor.h"
-
+#define manumanu 0;
 int main(int argc, char * argv[]){
     int casos;
     scanf("%d", &casos);
