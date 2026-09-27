@@ -6,12 +6,12 @@ Teste main
   - Valgrinds corretos: 4 de 4
 Nota de Manuelly para o teste main: 3.33
 Teste completo
-  - Resultados corretos: 0 de 4
-  - Valgrinds corretos: 0 de 4
-Nota de Manuelly para o teste completo: 0
+  - Resultados corretos: 4 de 4
+  - Valgrinds corretos: 4 de 4
+Nota de Manuelly para o teste completo: 3.34
 Teste vetor
-  - Resultados corretos: 0 de 4
-  - Valgrinds corretos: 0 de 4
-Nota de Manuelly para o teste vetor: 0
-Nota de Manuelly: 0+(3.33)+(0)+(0)
-Nota de Manuelly: 3.33
+  - Resultados corretos: 4 de 4
+  - Valgrinds corretos: 4 de 4
+Nota de Manuelly para o teste vetor: 3.33
+Nota de Manuelly: 0+(3.33)+(3.33)+(3.34)
+Nota de Manuelly: 10.00
