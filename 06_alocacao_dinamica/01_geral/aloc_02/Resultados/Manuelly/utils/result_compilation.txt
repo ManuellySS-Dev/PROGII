@@ -1,0 +1,4 @@
+utils.c: In function ‘CriaMatriz’:
+utils.c:10:21: warning: initialization of ‘int **’ from incompatible pointer type ‘int (**)[colunas]’ [-Wincompatible-pointer-types]
+   10 |     int **matrizz = &matriz;
+      |                     ^
